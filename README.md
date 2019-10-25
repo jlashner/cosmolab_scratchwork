@@ -1,2 +1,3 @@
-# cosmolab_scratchwork
-Scratch space for cosmolab group meetings
+# Cosmolab scratchwork
+
+
